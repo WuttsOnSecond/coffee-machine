@@ -32,7 +32,7 @@ public class CoffeeMachine {
         sb.append(milk + " of milk" + newLine);
         sb.append(coffee + " of coffee beans" + newLine);
         sb.append(cups + " of disposable cups" + newLine);
-        sb.append(money + " of money" + newLine);
+        sb.append(money + " of money");
 
         System.out.println(sb.toString());
     }
@@ -161,6 +161,7 @@ public class CoffeeMachine {
     void take() {
         System.out.println("I gave you $" + money);
         money = 0;
+
     }
 
     public static void main(String[] args) {
@@ -171,6 +172,7 @@ public class CoffeeMachine {
 
             System.out.println("Write action (remaining, buy, fill, take, exit):");
             machine.query(scan.next());
+            System.out.println();
 
         }
 
