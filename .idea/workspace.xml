@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="679cb630-0dba-4dcc-9533-6806808c475d" name="Default Changelist" comment="Cleaned up command-line spacing" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1c8X5WdZ6gM7XQGIB9dzG8xnNU9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.CoffeeMachine">
+    <configuration name="CoffeeMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dev.wutt.coffeemachine.CoffeeMachine" />
+      <module name="CoffeeMachine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.wutt.coffeemachine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="dev.wutt.coffeemachine.Main" />
+      <module name="CoffeeMachine" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.CoffeeMachine" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CoffeeMachine" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="679cb630-0dba-4dcc-9533-6806808c475d" name="Default Changelist" comment="" />
+      <created>1589911011018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589911011018</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Cleaned up command-line spacing">
+      <created>1590000587786</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590000587786</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Cleaned up command-line spacing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cleaned up command-line spacing" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="634" y="310" key="Github.ShareDialog" timestamp="1589911248534">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="634" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1589911248534" />
+    <state x="526" y="110" key="Github.UntrackedFilesDialog" timestamp="1589911279328">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="526" y="110" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1589911279328" />
+    <state width="1493" height="575" key="GridCell.Tab.0.bottom" timestamp="1590000912877">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="575" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590000912877" />
+    <state width="1493" height="575" key="GridCell.Tab.0.center" timestamp="1590000912877">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="575" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590000912877" />
+    <state width="1493" height="575" key="GridCell.Tab.0.left" timestamp="1590000912876">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="575" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590000912876" />
+    <state width="1493" height="575" key="GridCell.Tab.0.right" timestamp="1590000912877">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="575" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590000912877" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1590000864807">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1590000864807" />
+    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590000788091">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1590000788091" />
+  </component>
+</project>
